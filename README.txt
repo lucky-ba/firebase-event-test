@@ -10,7 +10,7 @@ Whenever a new user is added under the `/accounts` path in Firebase Realtime Dat
 ---
 
 ## 📁 Project Structure
-
+Diagram Link: https://drive.google.com/file/d/17_A3pY66cSNSYY7NtDTethvh7mt-L06n/view?usp=sharing
 ```
 📦 firebase-mongodb-sync
 ├── data
